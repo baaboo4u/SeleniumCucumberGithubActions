@@ -7,7 +7,7 @@ import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
 /**
- * Created by Karthik on 21/09/2019.
+ * Created by Ganesh
  */
 public class LoginPage {
 
